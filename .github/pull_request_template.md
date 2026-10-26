@@ -43,6 +43,32 @@
 
 ---
 
+## Impacto na infra
+
+<!-- O que precisa mudar fora do código para este PR ser promovido. Se nada, marque a primeira opção e apague o resto. -->
+
+- [ ] Nenhum impacto na infra
+
+- [ ] Variavel de ambiente nova ou com valor diferente por ambiente (qual e o valor esperado em cada um):
+
+- [ ] Segredo novo (qual, e quem gera):
+
+- [ ] Servico, permissao ou recurso de nuvem novo (ex.: bucket, chave, fila, acesso a um servico da AWS):
+
+- [ ] Fila nova ou job que mudou de fila:
+
+- [ ] Dependencia de sistema, extensao ou imagem de build nova:
+
+- [ ] Agendamento novo ou alterado:
+
+- [ ] Migration pesada ou destrutiva (precisa de janela, de expand/contract ou de backup antes):
+
+- [ ] Ordem de deploy entre repositorios (o que tem de subir antes):
+
+<!-- Detalhe aqui o que a infra precisa fazer e em que momento (antes, junto ou depois do merge). -->
+
+---
+
 # DEV Ops card
 
 [Card Azure](cola_o_link_aqui)
