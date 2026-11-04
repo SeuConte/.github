@@ -69,6 +69,18 @@
 
 ---
 
+## Tamanho do diff
+
+<!-- Medido com `git diff --numstat <base>...HEAD`, em arquivos e linhas (+ e -) por segmento. Use os segmentos que fazem sentido no repo, por exemplo Codigo, Migrations, Testes, Docs, Infra (Dockerfile, pipeline, scripts) e Ferramentas (arquivos gerados ou de ferramenta, como lockfile e baseline de analise estatica). Segmento vazio sai. Ferramentas fica separado porque arquivo gerado soma milhares de linhas e esconde a proporcao do que foi escrito a mao. Em PR de stack acima da primeira camada, acrescente uma linha com o acumulado do stack contra a branch de destino. -->
+
+| Segmento | Arquivos | Linhas |
+| --- | --- | --- |
+| Codigo | | |
+| Testes | | |
+| Total | | |
+
+---
+
 # DEV Ops card
 
 [Card Azure](cola_o_link_aqui)
