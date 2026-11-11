@@ -1,3 +1,16 @@
+## Tarefa do board
+
+<!-- Uma linha com a issue do tracker que este PR move no board. Exemplo:
+
+Tarefa: SeuConte/seu-conte-produto#42
+
+Escreva a linha fora deste comentário, com o número da sua tarefa.
+Se a branch começa com o número da issue (ex.: feat/42-tela-de-login para a tarefa #42), a automação escreve a linha sozinha.
+PR que não é de nenhuma tarefa (dependência, chore) leva o label sem-tarefa.
+Nunca use Closes ou Fixes: quem fecha a issue é a automação, na release. -->
+
+---
+
 ## O que foi feito
 
 <!-- Descreva de forma objetiva o que muda com este PR -->
@@ -78,12 +91,6 @@
 | Codigo | | |
 | Testes | | |
 | Total | | |
-
----
-
-# DEV Ops card
-
-[Card Azure](cola_o_link_aqui)
 
 ---
 
