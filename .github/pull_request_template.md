@@ -94,12 +94,6 @@ Nunca use Closes ou Fixes: quem fecha a issue é a automação, na release. -->
 
 ---
 
-# DEV Ops card
-
-[Card Azure](cola_o_link_aqui)
-
----
-
 ## Observacoes para o revisor
 
 <!-- Decisoes técnicas, trade-offs, pontos de atenção e impactos (breaking changes) -->
